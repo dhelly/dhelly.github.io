@@ -4,10 +4,10 @@
 
 ### Estatística Básica 
 
-[Em R](/_pages/rstats)
+[Em R](/pages/rstats)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Em Python](/_pages/pythonstats)
+[Em Python](/pages/pythonstats)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
