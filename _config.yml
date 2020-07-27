@@ -3,6 +3,7 @@ author: dhelly
 email: dhelly@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Github respository - Jaqueline Fernandes
+baseurl: ""
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -39,7 +40,9 @@ plainwhite:
 #  - about.md
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: plainwhite
+
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
