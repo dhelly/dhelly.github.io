@@ -1,0 +1,20 @@
+I"^<p>Projeto desenvolvido na Next Level Week 01 da equipe da Rocketseat</p>
+
+<p><img src="https://raw.githubusercontent.com/dhelly/nlw-ecoleta/master/git_assets/logo.png" alt="Ecoleta" /></p>
+
+<p>O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem em sua cidade ou região.</p>
+
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias</p>
+
+<ul>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="http://knexjs.org/">Knex</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://reactjs.org/">ReactJS</a></li>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
+</ul>
+
+<p><a href="https://github.com/dhelly/nlw-ecoleta">Projeto no Github</a></p>
+:ET

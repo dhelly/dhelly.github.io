@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-27T15:47:55-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
-</subtitle><author><name>dhelly</name></author><entry><title type="html">Estudos de Estatística Básica usando R e Rstudio</title><link href="http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r.html" rel="alternate" type="text/html" title="Estudos de Estatística Básica usando R e Rstudio" /><published>2020-07-21T08:00:13-03:00</published><updated>2020-07-21T08:00:13-03:00</updated><id>http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r</id><content type="html" xml:base="http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r.html">&lt;p&gt;Repositório que tem como objetivo praticar os conhecimentos básicos aprendidos nos estudos de estatística e análise de dados.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-22T18:44:23-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
+</subtitle><author><name>dhelly</name></author><entry><title type="html">Anotações do Curso Laravel Developer</title><link href="http://localhost:4000/php/laravel/2020/09/22/laravel_notes.html" rel="alternate" type="text/html" title="Anotações do Curso Laravel Developer" /><published>2020-09-22T15:00:00-03:00</published><updated>2020-09-22T15:00:00-03:00</updated><id>http://localhost:4000/php/laravel/2020/09/22/laravel_notes</id><content type="html" xml:base="http://localhost:4000/php/laravel/2020/09/22/laravel_notes.html">&lt;p&gt;Minhas anotações do curso Laravel Developer da &lt;a href=&quot;https://www.upinside.com.br/&quot;&gt;UpInside Treinamentos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Este repositório tem como objetivo auxiliar no desenvolvimento dos meus futuros projetos.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sempre em fase de crescimento&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tecnologias&quot;&gt;Tecnologias&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;PHP&lt;/li&gt;
+  &lt;li&gt;Laravel 5.7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/laradev&quot;&gt;Repositório no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="PHP" /><category term="Laravel" /><summary type="html">Minhas anotações do curso Laravel Developer da UpInside Treinamentos</summary></entry><entry><title type="html">Estudos de Estatística Básica usando R e Rstudio</title><link href="http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r.html" rel="alternate" type="text/html" title="Estudos de Estatística Básica usando R e Rstudio" /><published>2020-07-21T08:00:13-03:00</published><updated>2020-07-21T08:00:13-03:00</updated><id>http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r</id><content type="html" xml:base="http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r.html">&lt;p&gt;Repositório que tem como objetivo praticar os conhecimentos básicos aprendidos nos estudos de estatística e análise de dados.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Ainda em fase de crescimento&lt;/em&gt;&lt;/p&gt;
 

@@ -6,9 +6,14 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
             <loc>http://localhost:4000</loc>
-	    <lastmod>2020-07-27T15:47:55-03:00</lastmod>
+	    <lastmod>2020-09-22T18:44:23-03:00</lastmod>
             <priority>1.00</priority>
         </url><url>
+                <loc>http://localhost:4000/php/laravel/2020/09/22/laravel_notes.html</loc>
+                <lastmod>2020-09-22T15:00:00-03:00</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.80</priority>
+            </url><url>
                 <loc>http://localhost:4000/r/rstats/rmarkdown/2020/07/21/estatistica-basica-r.html</loc>
                 <lastmod>2020-07-21T08:00:13-03:00</lastmod>
                 <changefreq>weekly</changefreq>

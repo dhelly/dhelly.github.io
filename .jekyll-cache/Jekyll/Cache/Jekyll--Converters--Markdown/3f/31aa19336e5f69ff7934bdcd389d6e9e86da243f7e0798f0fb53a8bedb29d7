@@ -1,0 +1,19 @@
+I"<p>Semana OmniStack 11 - Criação da aplicação para cadastro de Ong’s e pessoas que precisam de sua ajuda.</p>
+
+<h2 id="layout">Layout</h2>
+<p>Construido no <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">Figma</a></p>
+
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias</p>
+
+<ul>
+  <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="http://knexjs.org/">Knex</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://reactjs.org/">ReactJS</a></li>
+  <li><a href="https://reactnative.dev/">React Native</a></li>
+</ul>
+
+<p><a href="https://github.com/dhelly/be-the-hero">Projeto no Github</a></p>
+:ET

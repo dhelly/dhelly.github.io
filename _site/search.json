@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Anotações do Curso Laravel Developer",
+      "title-lower"    : "anotações do curso laravel developer",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "PHPLaravel",
+      "tags"     : "",
+      "url"      : "/php/laravel/2020/09/22/laravel_notes.html",
+      "date"     : "2020-09-22 15:00:00 -0300",
+      "content"     : "Minhas anotações do curso Laravel Developer da UpInside TreinamentosEste repositório tem como objetivo auxiliar no desenvolvimento dos meus futuros projetos.Sempre em fase de crescimentoTecnologias..."
+    } ,
+  
+    {
       "title"    : "Estudos de Estatística Básica usando R e Rstudio",
       "title-lower"    : "estudos de estatística básica usando r e rstudio",
       "sub-titile" : "",
