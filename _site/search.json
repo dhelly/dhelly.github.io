@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Projeto WebSite Desafio da Laradev",
+      "title-lower"    : "projeto website desafio da laradev",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "phplaravel",
+      "tags"     : "",
+      "url"      : "/php/laravel/2020/09/25/projeto-website-desafio-da-laradev.html",
+      "date"     : "2020-09-25 17:40:00 -0300",
+      "content"     : "Anotações referentes ao estudo da atividade desenvolvida durante o Projeto WebSite desafio do Curso LaraDev da UpInside Treinamento                              Página Inicial      Repositório no G..."
+    } ,
+  
+    {
       "title"    : "Atualização do conhecimentos em HTMLv5",
       "title-lower"    : "atualização do conhecimentos em htmlv5",
       "sub-titile" : "",
