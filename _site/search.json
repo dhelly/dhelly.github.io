@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Iniciando os estudos com o Arduino",
+      "title-lower"    : "iniciando os estudos com o arduino",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "phplaravel",
+      "tags"     : "",
+      "url"      : "/php/laravel/2020/09/26/arduino-started.html",
+      "date"     : "2020-09-26 12:40:00 -0300",
+      "content"     : "Repositório do Projeto de construção de um datalogger no arduino para armazenar os dados de temperatura e humidade. Que posteriormente será utilizado para alimentar projetos de análise de dados.Est..."
+    } ,
+  
+    {
       "title"    : "Projeto WebSite Desafio da Laradev",
       "title-lower"    : "projeto website desafio da laradev",
       "sub-titile" : "",

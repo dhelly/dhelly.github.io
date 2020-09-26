@@ -49,3 +49,5 @@ analytics_id: "UA-170090729-1"
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+sitemap: true
