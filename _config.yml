@@ -13,7 +13,7 @@ sass:
 plainwhite:
   name: Jaqueline Fernandes
   tagline: FullStack Developer
-  date_format: "%b %-d, %Y"
+  date_format: "%d/%m/%Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
