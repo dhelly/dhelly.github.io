@@ -1,5 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T07:45:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
-</subtitle><author><name>dhelly</name></author><entry><title type="html">Iniciando os estudos com o Arduino</title><link href="http://localhost:4000/php/laravel/2020/09/26/arduino-started.html" rel="alternate" type="text/html" title="Iniciando os estudos com o Arduino" /><published>2020-09-26T12:40:00-03:00</published><updated>2020-09-26T12:40:00-03:00</updated><id>http://localhost:4000/php/laravel/2020/09/26/arduino-started</id><content type="html" xml:base="http://localhost:4000/php/laravel/2020/09/26/arduino-started.html">&lt;p&gt;Repositório do Projeto de construção de um datalogger no arduino para armazenar os dados de temperatura e humidade. Que posteriormente será utilizado para alimentar projetos de análise de dados.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T08:16:30-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
+</subtitle><author><name>dhelly</name></author><entry><title type="html">Projeto para cadastro e exibição dos dados do IVDN</title><link href="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html" rel="alternate" type="text/html" title="Projeto para cadastro e exibição dos dados do IVDN" /><published>2020-10-16T15:00:00-03:00</published><updated>2020-10-16T15:00:00-03:00</updated><id>http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn</id><content type="html" xml:base="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html">&lt;p&gt;A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.&lt;/p&gt;
+
+&lt;h2 id=&quot;tecnologias-utilizadas&quot;&gt;Tecnologias Utilizadas&lt;/h2&gt;
+
+&lt;p&gt;O projeto foi desenvolvido utilizando as seguintes tecnologias&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.php.net/&quot;&gt;Php 7.2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mariadb.org/&quot;&gt;MariaDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://laravel.com&quot;&gt;Laravel 5.7&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap 4.5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://startbootstrap.com/themes/sb-admin-2/&quot;&gt;SBAdmin 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;aplicações-das-tecnologias&quot;&gt;Aplicações das Tecnologias&lt;/h2&gt;
+
+&lt;p&gt;Como framework para desenvolvimento usamos Laravel e MariaDB para fazer o gerenciamento do banco de dados. Bootstrap como framework para parte de frontend, por sua facilitade em trabalhar responsível.&lt;/p&gt;
+
+&lt;h2 id=&quot;checklist-de-atividades&quot;&gt;Checklist de atividades&lt;/h2&gt;
+
+&lt;p&gt;Layout Administrativo&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Fatiamento do layout SBAdmin com o laravelmix&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Criação das migrations&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Criação dos usuários administrador&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Layout da página principal&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Construção&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Carrossel&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Responsividade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Layout da página de listagem&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Construção&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Responsividade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/dca-ivdn&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="php" /><category term="laravel" /><category term="mariadb" /><category term="html" /><category term="css" /><category term="javascript" /><category term="bootstrap" /><summary type="html">A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.</summary></entry><entry><title type="html">Iniciando os estudos com o Arduino</title><link href="http://localhost:4000/php/laravel/2020/09/26/arduino-started.html" rel="alternate" type="text/html" title="Iniciando os estudos com o Arduino" /><published>2020-09-26T12:40:00-03:00</published><updated>2020-09-26T12:40:00-03:00</updated><id>http://localhost:4000/php/laravel/2020/09/26/arduino-started</id><content type="html" xml:base="http://localhost:4000/php/laravel/2020/09/26/arduino-started.html">&lt;p&gt;Repositório do Projeto de construção de um datalogger no arduino para armazenar os dados de temperatura e humidade. Que posteriormente será utilizado para alimentar projetos de análise de dados.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Estou aguardando a chegada do leitor de cartão para continuar com o projeto&lt;/em&gt;&lt;/p&gt;
 

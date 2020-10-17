@@ -1,0 +1,41 @@
+I"�<p>A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.</p>
+
+<h2 id="tecnologias-utilizadas">Tecnologias Utilizadas</h2>
+
+<p>O projeto foi desenvolvido utilizando as seguintes tecnologias</p>
+
+<ul>
+  <li><a href="https://www.php.net/">Php 7.2</a></li>
+  <li><a href="https://mariadb.org/">MariaDB</a></li>
+  <li><a href="https://laravel.com">Laravel 5.7</a></li>
+  <li><a href="https://getbootstrap.com/">Bootstrap 4.5</a></li>
+  <li><a href="https://startbootstrap.com/themes/sb-admin-2/">SBAdmin 2</a></li>
+</ul>
+
+<h2 id="aplicações-das-tecnologias">Aplicações das Tecnologias</h2>
+
+<p>Como framework para desenvolvimento usamos Laravel e MariaDB para fazer o gerenciamento do banco de dados. Bootstrap como framework para parte de frontend, por sua facilitade em trabalhar responsível.</p>
+
+<h2 id="checklist-de-atividades">Checklist de atividades</h2>
+
+<p>Layout Administrativo</p>
+
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Fatiamento do layout SBAdmin com o laravelmix
+[ ] Criação das migrations
+[ ] Criação dos usuários administrador</li>
+</ul>
+
+<p>Layout da página principal</p>
+
+<p>[x] Construção
+[ ] Carrossel
+[ ] Responsividade</p>
+
+<p>Layout da página de listagem</p>
+
+<p>[ ] Construção
+[ ] Responsividade</p>
+
+<p><a href="https://github.com/dhelly/dca-ivdn">Projeto no Github</a></p>
+:ET

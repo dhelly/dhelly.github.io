@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Projeto para cadastro e exibição dos dados do IVDN",
+      "title-lower"    : "projeto para cadastro e exibição dos dados do ivdn",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "phplaravelmariadbhtmlcssjavascriptbootstrap",
+      "tags"     : "",
+      "url"      : "/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html",
+      "date"     : "2020-10-16 15:00:00 -0300",
+      "content"     : "A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.Tecnologias UtilizadasO projeto foi desenvolvido utilizando as seguintes tecnologias  Php 7..."
+    } ,
+  
+    {
       "title"    : "Iniciando os estudos com o Arduino",
       "title-lower"    : "iniciando os estudos com o arduino",
       "sub-titile" : "",
