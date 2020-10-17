@@ -1,0 +1,32 @@
+I"�<p>Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</p>
+
+<p><img src="https://raw.githubusercontent.com/dhelly/nlw3/master/git_assets/main_screen_web_day_1.png" alt="Happy" /></p>
+
+<p>O <strong>Happy</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem locais de acolhimento de crianças e adolescentes.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center"><img src="git_assets/main_screen_web_day_1.png" alt="main_screen_web_day_1.png" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><em>Primeiro Dia - Resultado</em></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="tecnologia-utilizada">Tecnologia Utilizada</h2>
+
+<ul>
+  <li>html</li>
+  <li>css</li>
+</ul>
+
+<h2 id="conhecimento-relevantes-do-primeiro-dia">Conhecimento relevantes do Primeiro dia</h2>
+
+<p>Uso de animações</p>
+
+<p><a href="https://github.com/dhelly/nlw3">Projeto no Github</a></p>
+:ET

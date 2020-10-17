@@ -1,5 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T08:16:30-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
-</subtitle><author><name>dhelly</name></author><entry><title type="html">Projeto para cadastro e exibição dos dados do IVDN</title><link href="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html" rel="alternate" type="text/html" title="Projeto para cadastro e exibição dos dados do IVDN" /><published>2020-10-16T15:00:00-03:00</published><updated>2020-10-16T15:00:00-03:00</updated><id>http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn</id><content type="html" xml:base="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html">&lt;p&gt;A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T19:41:24-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
+</subtitle><author><name>dhelly</name></author><entry><title type="html">Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</title><link href="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html" rel="alternate" type="text/html" title="Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat" /><published>2020-10-17T08:00:13-03:00</published><updated>2020-10-17T08:00:13-03:00</updated><id>http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3</id><content type="html" xml:base="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html">&lt;p&gt;Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dhelly/nlw3/master/git_assets/main_screen_web_day_1.png&quot; alt=&quot;Happy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;Happy&lt;/strong&gt; é uma aplicação Web e Mobile para ajudar pessoas a encontrarem locais de acolhimento de crianças e adolescentes.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;git_assets/main_screen_web_day_1.png&quot; alt=&quot;main_screen_web_day_1.png&quot; /&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Primeiro Dia - Resultado&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;tecnologia-utilizada&quot;&gt;Tecnologia Utilizada&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;html&lt;/li&gt;
+  &lt;li&gt;css&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conhecimento-relevantes-do-primeiro-dia&quot;&gt;Conhecimento relevantes do Primeiro dia&lt;/h2&gt;
+
+&lt;p&gt;Uso de animações&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/nlw3&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="html" /><category term="css" /><summary type="html">Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</summary></entry><entry><title type="html">Projeto para cadastro e exibição dos dados do IVDN</title><link href="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html" rel="alternate" type="text/html" title="Projeto para cadastro e exibição dos dados do IVDN" /><published>2020-10-16T15:00:00-03:00</published><updated>2020-10-16T15:00:00-03:00</updated><id>http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn</id><content type="html" xml:base="http://localhost:4000/php/laravel/mariadb/html/css/javascript/bootstrap/2020/10/16/projeto-satelite-ivdn.html">&lt;p&gt;A aplicação tem como objetivo exibir as imagens de satélite mês a mês dos estados da Paraíba e Pernambuco.&lt;/p&gt;
 
 &lt;h2 id=&quot;tecnologias-utilizadas&quot;&gt;Tecnologias Utilizadas&lt;/h2&gt;
 
@@ -131,21 +161,4 @@ Envio de mensagens usando WebRTC com Peer.js&lt;/p&gt;
 
 &lt;p&gt;Uma maratona muito intensa e uma ótima oportunidade para aprender mais sobre as novas tecnologias do momento.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/maratonafullcycle2-desafios&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="Docker" /><summary type="html">Os desafios envolve o conhecimento de Docker, NestJs, TyperORM, Migrations, SQLite; Envio de mensagens usando WebRTC com Peer.js</summary></entry><entry><title type="html">Projeto desenvolvido na OmniStack 11 da Rocketseat</title><link href="http://localhost:4000/sqlite/nodejs/reactjs/reactnative/2020/03/29/semana-omnistack11.html" rel="alternate" type="text/html" title="Projeto desenvolvido na OmniStack 11 da Rocketseat" /><published>2020-03-29T08:00:13-03:00</published><updated>2020-03-29T08:00:13-03:00</updated><id>http://localhost:4000/sqlite/nodejs/reactjs/reactnative/2020/03/29/semana-omnistack11</id><content type="html" xml:base="http://localhost:4000/sqlite/nodejs/reactjs/reactnative/2020/03/29/semana-omnistack11.html">&lt;p&gt;Semana OmniStack 11 - Criação da aplicação para cadastro de Ong’s e pessoas que precisam de sua ajuda.&lt;/p&gt;
-
-&lt;h2 id=&quot;layout&quot;&gt;Layout&lt;/h2&gt;
-&lt;p&gt;Construido no &lt;a href=&quot;https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1&quot;&gt;Figma&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tecnologias-utilizadas&quot;&gt;Tecnologias Utilizadas&lt;/h2&gt;
-
-&lt;p&gt;O projeto foi desenvolvido utilizando as seguintes tecnologias&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;TypeScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://knexjs.org/&quot;&gt;Knex&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://reactjs.org/&quot;&gt;ReactJS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/&quot;&gt;React Native&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/be-the-hero&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="SQLite" /><category term="Nodejs" /><category term="ReactJS" /><category term="ReactNative" /><summary type="html">Semana OmniStack 11 - Criação da aplicação para cadastro de Ong’s e pessoas que precisam de sua ajuda.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/maratonafullcycle2-desafios&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="Docker" /><summary type="html">Os desafios envolve o conhecimento de Docker, NestJs, TyperORM, Migrations, SQLite; Envio de mensagens usando WebRTC com Peer.js</summary></entry></feed>

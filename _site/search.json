@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat ",
+      "title-lower"    : "projeto desenvolvido na next level week 03 da equipe da rocketseat ",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "htmlcss",
+      "tags"     : "",
+      "url"      : "/html/css/2020/10/17/projeto-next-level-week-3.html",
+      "date"     : "2020-10-17 08:00:13 -0300",
+      "content"     : "Projeto desenvolvido na Next Level Week 03 da equipe da RocketseatO Happy é uma aplicação Web e Mobile para ajudar pessoas a encontrarem locais de acolhimento de crianças e adolescentes.           ..."
+    } ,
+  
+    {
       "title"    : "Projeto para cadastro e exibição dos dados do IVDN",
       "title-lower"    : "projeto para cadastro e exibição dos dados do ivdn",
       "sub-titile" : "",
