@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Notificação por email Usando o Composer",
+      "title-lower"    : "notificação por email usando o composer",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "phpcomposergitpackagist",
+      "tags"     : "",
+      "url"      : "/php/composer/git/packagist/2020/10/30/notification-composer.html",
+      "date"     : "2020-10-30 17:00:00 -0300",
+      "content"     : "Criando um projeto com composerDescriçãoEste repositório tem como finalidade aplicar o conhecimento do Curso Composer na Prática da UpInside Treinamentos.AnotaçõesIniciando um projeto  composer ini..."
+    } ,
+  
+    {
       "title"    : "Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat ",
       "title-lower"    : "projeto desenvolvido na next level week 03 da equipe da rocketseat ",
       "sub-titile" : "",

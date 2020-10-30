@@ -1,5 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T19:41:24-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
-</subtitle><author><name>dhelly</name></author><entry><title type="html">Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</title><link href="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html" rel="alternate" type="text/html" title="Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat" /><published>2020-10-17T08:00:13-03:00</published><updated>2020-10-17T08:00:13-03:00</updated><id>http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3</id><content type="html" xml:base="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html">&lt;p&gt;Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-30T18:36:34-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
+</subtitle><author><name>dhelly</name></author><entry><title type="html">Notificação por email Usando o Composer</title><link href="http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer.html" rel="alternate" type="text/html" title="Notificação por email Usando o Composer" /><published>2020-10-30T17:00:00-03:00</published><updated>2020-10-30T17:00:00-03:00</updated><id>http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer</id><content type="html" xml:base="http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer.html">&lt;p&gt;Criando um projeto com composer&lt;/p&gt;
+
+&lt;h2 id=&quot;descrição&quot;&gt;Descrição&lt;/h2&gt;
+&lt;p&gt;Este repositório tem como finalidade aplicar o conhecimento do &lt;a href=&quot;https://www.upinside.com.br/cursos/composer-na-pratica&quot;&gt;Curso Composer na Prática&lt;/a&gt; da &lt;a href=&quot;https://www.upinside.com.br&quot;&gt;UpInside Treinamentos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;anotações&quot;&gt;Anotações&lt;/h2&gt;
+
+&lt;p&gt;Iniciando um projeto&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;composer init&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Prencher os dados solicitados&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;This is a library that uses composer as the basis for generating email notification&lt;/li&gt;
+  &lt;li&gt;dev&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Resultado final:&lt;/p&gt;
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;jaqueline/notification&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;description&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;This is a library that uses composer as the basis for generating email notification&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;library&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;license&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;MIT&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;authors&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+            &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Jaqueline Fernandes&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+            &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dhelly@gmail.com&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+            &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;homepage&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://jaqueline.dev&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+            &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;role&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Developer&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;minimum-stability&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dev&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;require&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Instalando um biblioteca&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;composer require phpmailer/phpmailer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Remover uma biblioteca&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;composer remove phpmailer/phpmailer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Alterando no nome da pasta &lt;em&gt;vendor&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;jaqueline/notification&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;description&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;This is a library that uses composer as the basis for generating email notification&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;library&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;license&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;MIT&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;authors&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Jaqueline Fernandes&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dhelly@gmail.com&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;homepage&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://jaqueline.dev&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;role&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Developer&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;minimum-stability&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dev&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;require&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;phpmailer/phpmailer&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;6.1.8&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;config&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+        &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;vendor-dir&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;lib_ext&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Executamos o comando &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;composer update&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;enviado-nosso-projeto-para-o-git&quot;&gt;Enviado nosso projeto para o git&lt;/h2&gt;
+
+&lt;p&gt;1 - Criamos nosso repositório no github
+2 - Adicionamos nosso projeto ao git &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt;
+3 - Adicionamos o nosso repositório remoto ao nosso projeto&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;git remote add origin &lt;endereço do=&quot;&quot; repositório=&quot;&quot;&gt;&lt;/endereço&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4 - Puxar o arquivo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;readme.md&lt;/code&gt; criado pelo git para não precisar fazer merger da nossa branch&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;git pull origin main –allow-unrelated-histories&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4 - Criar um arquivo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.gitignore&lt;/code&gt;. Se quiser gerar automaticamente um use o link abaixo.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;https://www.toptal.com/developers/gitignore&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Devemos lembrar de alterar a pasta &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vendor&lt;/code&gt; para &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lib_ext&lt;/code&gt; para não entrar no controle de versionamento.&lt;/p&gt;
+
+&lt;p&gt;5 - Adicionar todos os arquivos.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;git add .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;6 - Commitar o projeto no git&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;git commit -m “&lt;mensagem&gt;&quot;&lt;/mensagem&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;7 - Enviar para o github&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;git push origin main&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;readmemd&quot;&gt;Readme.md&lt;/h2&gt;
+&lt;p&gt;Melhorar o &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;readme.md&lt;/code&gt;, pois ele será utilizado pelo &lt;strong&gt;packagist&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vamos utilizar o modelo fornecido pelo instrutor. Podemos formatar na própria IDE(no meu caso VSCODE) o usando o site &lt;a href=&quot;https://dillinger.io/&quot;&gt;dillinger&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/notification&quot;&gt;Repositório no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="php" /><category term="composer" /><category term="git" /><category term="packagist" /><summary type="html">Criando um projeto com composer</summary></entry><entry><title type="html">Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</title><link href="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html" rel="alternate" type="text/html" title="Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat" /><published>2020-10-17T08:00:13-03:00</published><updated>2020-10-17T08:00:13-03:00</updated><id>http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3</id><content type="html" xml:base="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html">&lt;p&gt;Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/dhelly/nlw3/master/git_assets/main_screen_web_day_1.png&quot; alt=&quot;Happy&quot; /&gt;&lt;/p&gt;
 
@@ -156,9 +268,4 @@ Usamos regressão linear para estimar.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://reactnative.dev/&quot;&gt;React Native&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/nlw-ecoleta&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="TypeScript" /><category term="Knex" /><category term="Nodejs" /><category term="ReactJS" /><category term="ReactNative" /><summary type="html">Projeto desenvolvido na Next Level Week 01 da equipe da Rocketseat</summary></entry><entry><title type="html">Soluções dos Desafios da Maratona FullCycle 2.0</title><link href="http://localhost:4000/docker/2020/05/11/desafio-maratona-fullcycle-2.html" rel="alternate" type="text/html" title="Soluções dos Desafios da Maratona FullCycle 2.0" /><published>2020-05-11T08:00:13-03:00</published><updated>2020-05-11T08:00:13-03:00</updated><id>http://localhost:4000/docker/2020/05/11/desafio-maratona-fullcycle-2</id><content type="html" xml:base="http://localhost:4000/docker/2020/05/11/desafio-maratona-fullcycle-2.html">&lt;p&gt;Os desafios envolve o conhecimento de Docker, NestJs, TyperORM, Migrations, SQLite;
-Envio de mensagens usando WebRTC com Peer.js&lt;/p&gt;
-
-&lt;p&gt;Uma maratona muito intensa e uma ótima oportunidade para aprender mais sobre as novas tecnologias do momento.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/maratonafullcycle2-desafios&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="Docker" /><summary type="html">Os desafios envolve o conhecimento de Docker, NestJs, TyperORM, Migrations, SQLite; Envio de mensagens usando WebRTC com Peer.js</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/nlw-ecoleta&quot;&gt;Projeto no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="TypeScript" /><category term="Knex" /><category term="Nodejs" /><category term="ReactJS" /><category term="ReactNative" /><summary type="html">Projeto desenvolvido na Next Level Week 01 da equipe da Rocketseat</summary></entry></feed>
