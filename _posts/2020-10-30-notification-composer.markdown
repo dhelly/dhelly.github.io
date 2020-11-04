@@ -89,7 +89,7 @@ Devemos lembrar de alterar a pasta `vendor` para `lib_ext` para não entrar no c
 > git add .
 
 6 - Commitar o projeto no git
-> git commit -m "<mensagem>"
+> git commit -m "mensagem"
 
 7 - Enviar para o github
 > git push origin main
@@ -99,5 +99,8 @@ Melhorar o `readme.md`, pois ele será utilizado pelo **packagist**.
 
 Vamos utilizar o modelo fornecido pelo instrutor. Podemos formatar na própria IDE(no meu caso VSCODE) o usando o site [dillinger](https://dillinger.io/)
 
+## Publicação no [Packagist](https://packagist.org)
+
+Primeiro criamos um conta. Com o repositório do github escolhemos a opção `submit`.
 
 [Repositório no Github](https://github.com/dhelly/notification)
