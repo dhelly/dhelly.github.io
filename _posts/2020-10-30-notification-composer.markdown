@@ -103,4 +103,6 @@ Vamos utilizar o modelo fornecido pelo instrutor. Podemos formatar na própria I
 
 Primeiro criamos um conta. Com o repositório do github escolhemos a opção `submit`.
 
+> https://packagist.org/packages/dhelly/notification
+
 [Repositório no Github](https://github.com/dhelly/notification)

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-30T18:36:34-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-04T15:36:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jaqueline Fernandes</title><subtitle>Github respository - Jaqueline Fernandes
 </subtitle><author><name>dhelly</name></author><entry><title type="html">Notificação por email Usando o Composer</title><link href="http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer.html" rel="alternate" type="text/html" title="Notificação por email Usando o Composer" /><published>2020-10-30T17:00:00-03:00</published><updated>2020-10-30T17:00:00-03:00</updated><id>http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer</id><content type="html" xml:base="http://localhost:4000/php/composer/git/packagist/2020/10/30/notification-composer.html">&lt;p&gt;Criando um projeto com composer&lt;/p&gt;
 
 &lt;h2 id=&quot;descrição&quot;&gt;Descrição&lt;/h2&gt;
@@ -98,7 +98,7 @@
 
 &lt;p&gt;6 - Commitar o projeto no git&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;git commit -m “&lt;mensagem&gt;&quot;&lt;/mensagem&gt;&lt;/p&gt;
+  &lt;p&gt;git commit -m “mensagem”&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;7 - Enviar para o github&lt;/p&gt;
@@ -110,6 +110,14 @@
 &lt;p&gt;Melhorar o &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;readme.md&lt;/code&gt;, pois ele será utilizado pelo &lt;strong&gt;packagist&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Vamos utilizar o modelo fornecido pelo instrutor. Podemos formatar na própria IDE(no meu caso VSCODE) o usando o site &lt;a href=&quot;https://dillinger.io/&quot;&gt;dillinger&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;publicação-no-packagist&quot;&gt;Publicação no &lt;a href=&quot;https://packagist.org&quot;&gt;Packagist&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Primeiro criamos um conta. Com o repositório do github escolhemos a opção &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;submit&lt;/code&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;https://packagist.org/packages/dhelly/notification&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/dhelly/notification&quot;&gt;Repositório no Github&lt;/a&gt;&lt;/p&gt;</content><author><name>dhelly</name></author><category term="php" /><category term="composer" /><category term="git" /><category term="packagist" /><summary type="html">Criando um projeto com composer</summary></entry><entry><title type="html">Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat</title><link href="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html" rel="alternate" type="text/html" title="Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat" /><published>2020-10-17T08:00:13-03:00</published><updated>2020-10-17T08:00:13-03:00</updated><id>http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3</id><content type="html" xml:base="http://localhost:4000/html/css/2020/10/17/projeto-next-level-week-3.html">&lt;p&gt;Projeto desenvolvido na Next Level Week 03 da equipe da Rocketseat&lt;/p&gt;
 
